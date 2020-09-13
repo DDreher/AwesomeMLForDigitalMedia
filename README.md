@@ -16,7 +16,7 @@ _Feel free to contribute! Send me a pull request or contact me [@Pixel_Tales](ht
 
 * **Neural state machine for character-scene interactions** (2019), Starke et al. [[pdf]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_Asia_2019/Paper.pdf)
 
-* **DReCon: Data-Driven Responsive Control of Physics-Based Characters** (2019), Bergamin et al. [[blog]](https://montreal.ubisoft.com/en/drecon-data-driven-responsive-control-of-physics-based-characters/) [[pdf]](https://static-wordpress.akamaized.net/montreal.ubisoft.com/wp-content/uploads/2019/11/13214229/DReCon.pdf)
+* **DReCon: Data-Driven Responsive Control of Physics-Based Characters** (2019), Bergamin et al. [[link]](https://montreal.ubisoft.com/en/drecon-data-driven-responsive-control-of-physics-based-characters/) [[pdf]](https://static-wordpress.akamaized.net/montreal.ubisoft.com/wp-content/uploads/2019/11/13214229/DReCon.pdf)
 
 * **Mode-adaptive neural networks for quadruped motion control** (2018), Zhang et al. [[pdf]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2018/Paper.pdf)
 
@@ -30,7 +30,11 @@ _Feel free to contribute! Send me a pull request or contact me [@Pixel_Tales](ht
 
 ### Papers
 
-* **Neural Supersampling for Real-time Rendering** (2020), Xiao et al. [[blog]](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/) [[pdf]](https://research.fb.com/wp-content/uploads/2020/06/Neural-Supersampling-for-Real-time-Rendering.pdf)
+* **Neural Supersampling for Real-time Rendering** (2020), Xiao et al. [[link]](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/) [[pdf]](https://research.fb.com/wp-content/uploads/2020/06/Neural-Supersampling-for-Real-time-Rendering.pdf)
+
+### Courses
+
+* **CreativeAI: Deep Learning for Graphics** (2019), Mitra et al. [[link]](https://geometry.cs.ucl.ac.uk/creativeai/)
 
 ## License
 
