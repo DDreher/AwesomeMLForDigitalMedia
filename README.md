@@ -13,23 +13,25 @@ _Feel free to contribute! Send me a pull request or contact me [@Pixel_Tales](ht
 
 ### Papers
 
-* **Local Motion Phases for Learning Multi-Contact Character Movements** (2020), Starke et al. [[Link]](https://dl.acm.org/doi/abs/10.1145/3386569.3392450)
+* **Local Motion Phases for Learning Multi-Contact Character Movements** (2020), Starke et al. [[pdf]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf)
 
-* **Neural state machine for character-scene interactions** (2019), Starke et al. [[Link]](https://dl.acm.org/doi/10.1145/3355089.3356505)
+* **Neural state machine for character-scene interactions** (2019), Starke et al. [[pdf]](https://github.com/sebastianstarke/AI4Animation/blob/master/AI4Animation/SIGGRAPH_Asia_2019) [[pdf]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_Asia_2019/Paper.pdf)
 
-* **Mode-adaptive neural networks for quadruped motion control** (2018), Zhang et al. [[Link]](https://dl.acm.org/doi/10.1145/3197517.3201366)
+* **DReCon: Data-Driven Responsive Control of Physics-Based Characters** (2019), Bergamin et al. [[blog]](https://montreal.ubisoft.com/en/drecon-data-driven-responsive-control-of-physics-based-characters/) [[pdf]](https://static-wordpress.akamaized.net/montreal.ubisoft.com/wp-content/uploads/2019/11/13214229/DReCon.pdf)
 
-* **Phase-Functioned Neural Networks for Character Control** (2017), Holden et al. [[Link]](https://dl.acm.org/doi/10.1145/3197517.3201366)
+* **Mode-adaptive neural networks for quadruped motion control** (2018), Zhang et al. [[pdf]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2018/Paper.pdf)
+
+* **Phase-Functioned Neural Networks for Character Control** (2017), Holden et al. [[pdf]](http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf)
 
 ### Projects
 
-* **AI4Animation: Deep Learning, Character Animation, Control** [[Link]](https://github.com/sebastianstarke/AI4Animation#siggraph-2020local-motion-phases-for-learning-multi-contact-character-movementssebastian-starkeyiwei-zhaotaku-komurakazi-zamanacm-trans-graph-39-4-article-54)
+* **AI4Animation: Deep Learning, Character Animation, Control** [[link]](https://github.com/sebastianstarke/AI4Animation#siggraph-2020local-motion-phases-for-learning-multi-contact-character-movementssebastian-starkeyiwei-zhaotaku-komurakazi-zamanacm-trans-graph-39-4-article-54)
 
 ## Real-time Computer Graphics
 
 ### Papers
 
-* **Neural Supersampling for Real-time Rendering** (2020), Xiao et al. [[Link]](https://dl.acm.org/doi/abs/10.1145/3386569.3392376)
+* **Neural Supersampling for Real-time Rendering** (2020), Xiao et al. [[blog]](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/) [[pdf]](https://research.fb.com/wp-content/uploads/2020/06/Neural-Supersampling-for-Real-time-Rendering.pdf)
 
 ## License
 
