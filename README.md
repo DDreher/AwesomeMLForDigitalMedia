@@ -15,7 +15,7 @@ _Feel free to contribute! Send me a pull request or contact me [@Pixel_Tales](ht
 
 * **Local Motion Phases for Learning Multi-Contact Character Movements** (2020), Starke et al. [[pdf]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf)
 
-* **Neural state machine for character-scene interactions** (2019), Starke et al. [[pdf]](https://github.com/sebastianstarke/AI4Animation/blob/master/AI4Animation/SIGGRAPH_Asia_2019) [[pdf]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_Asia_2019/Paper.pdf)
+* **Neural state machine for character-scene interactions** (2019), Starke et al. [[pdf]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_Asia_2019/Paper.pdf)
 
 * **DReCon: Data-Driven Responsive Control of Physics-Based Characters** (2019), Bergamin et al. [[blog]](https://montreal.ubisoft.com/en/drecon-data-driven-responsive-control-of-physics-based-characters/) [[pdf]](https://static-wordpress.akamaized.net/montreal.ubisoft.com/wp-content/uploads/2019/11/13214229/DReCon.pdf)
 
