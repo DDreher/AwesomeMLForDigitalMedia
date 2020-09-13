@@ -32,6 +32,8 @@ _Feel free to contribute! Send me a pull request or contact me [@Pixel_Tales](ht
 
 * **Neural Supersampling for Real-time Rendering** (2020), Xiao et al. [[link]](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/) [[pdf]](https://research.fb.com/wp-content/uploads/2020/06/Neural-Supersampling-for-Real-time-Rendering.pdf)
 
+* **Deep Shading: Convolutional Neural Networks for Screen-Space Shading** (2017), Nalbach et al. [[link]](http://deep-shading-datasets.mpi-inf.mpg.de/) [[pdf]](http://deep-shading-datasets.mpi-inf.mpg.de/deep-shading.pdf)
+
 ### Courses
 
 * **CreativeAI: Deep Learning for Graphics** (2019), Mitra et al. [[link]](https://geometry.cs.ucl.ac.uk/creativeai/)
