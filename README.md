@@ -1,6 +1,8 @@
 # Awesome Machine Learning for Game Development and Interactive Computer Graphics
 
-_Feel free to contribute!_
+A curated list of resources crossing the gap between video games, game development and interactive computer graphics.
+
+_Feel free to contribute! Send me a pull request or contact me [@Pixel_Tales](https://twitter.com/Pixel_Tales)_
 
 ## Table of Contents
 
