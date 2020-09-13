@@ -1,5 +1,5 @@
 # Awesome Machine Learning for Digital Media
-A curated list of resources crossing the gap between digital media (computer vision, (interactive) computer graphics, animation, vfx,...) and machine learning.
+A curated list of resources crossing the gap between digital media (computer vision, computer graphics, animation, vfx,...) and machine learning.
 
 _Feel free to contribute! Send me a pull request or contact me [@Pixel_Tales](https://twitter.com/Pixel_Tales)_
 
