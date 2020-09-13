@@ -26,7 +26,7 @@ _Feel free to contribute! Send me a pull request or contact me [@Pixel_Tales](ht
 
 * **AI4Animation: Deep Learning, Character Animation, Control** [[link]](https://github.com/sebastianstarke/AI4Animation#siggraph-2020local-motion-phases-for-learning-multi-contact-character-movementssebastian-starkeyiwei-zhaotaku-komurakazi-zamanacm-trans-graph-39-4-article-54)
 
-## Real-time Computer Graphics
+## Computer Graphics
 
 ### Papers
 
