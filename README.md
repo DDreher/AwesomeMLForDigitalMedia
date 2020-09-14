@@ -6,7 +6,7 @@ _Feel free to contribute! Send me a pull request or contact me [@Pixel_Tales](ht
 ## Table of Contents
 
 * [Character Animation](#character-animation)
-* [Real-time Computer Graphics](#real-time-computer-graphics)
+* [Computer Graphics](#computer-graphics)
 
 ## Character Animation
 
