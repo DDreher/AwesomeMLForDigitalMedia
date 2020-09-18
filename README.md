@@ -5,8 +5,15 @@ _Feel free to contribute! Send me a pull request or contact me [@Pixel_Tales](ht
 
 ## Table of Contents
 
+* [Visual Computing](#visual-computing)
 * [Character Animation](#character-animation)
 * [Computer Graphics](#computer-graphics)
+
+## Visual Computing
+
+### Courses
+
+* **TUM AI Lecture Series - AI for 3D Content Creation** (2020), Fidler et al. [[link]](https://www.youtube.com/watch?v=pTTxPq8uZmg&feature=youtu.be)
 
 ## Character Animation
 
