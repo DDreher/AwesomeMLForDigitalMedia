@@ -19,6 +19,8 @@ _Feel free to contribute! Send me a pull request or contact me [@Dan_Dreher_](ht
 
 ### Papers
 
+* **Learned Motion Matching** (2020), Holden et al. [[link]](http://theorangeduck.com/page/learned-motion-matching) [[pdf]](http://theorangeduck.com/media/uploads/other_stuff/Learned_Motion_Matching.pdf)
+
 * **Local Motion Phases for Learning Multi-Contact Character Movements** (2020), Starke et al. [[pdf]](https://github.com/sebastianstarke/AI4Animation/raw/master/Media/SIGGRAPH_2020/Paper.pdf)
 
 * **Neural state machine for character-scene interactions** (2019), Starke et al. [[pdf]](https://github.com/sebastianstarke/AI4Animation/raw/master/Media/SIGGRAPH_Asia_2019/Paper.pdf)
