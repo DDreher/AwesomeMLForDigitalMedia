@@ -11,7 +11,7 @@ _Feel free to contribute! Send me a pull request or contact me [@Pixel_Tales](ht
 
 ## Visual Computing
 
-### Courses
+### Talks
 
 * **TUM AI Lecture Series - AI for 3D Content Creation** (2020), Fidler et al. [[link]](https://www.youtube.com/watch?v=pTTxPq8uZmg&feature=youtu.be)
 
