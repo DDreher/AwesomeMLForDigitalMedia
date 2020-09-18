@@ -31,6 +31,10 @@ _Feel free to contribute! Send me a pull request or contact me [@Dan_Dreher_](ht
 
 * **Phase-Functioned Neural Networks for Character Control** (2017), Holden et al. [[pdf]](http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf)
 
+### Datasets
+
+* **LAFAN1 - Ubisoft La Forge Animation Dataset** (2020), Harvey et al. [[link]](https://github.com/ubisoft/Ubisoft-LaForge-Animation-Dataset)
+
 ### Projects
 
 * **AI4Animation: Deep Learning, Character Animation, Control** [[link]](https://github.com/sebastianstarke/AI4Animation)
