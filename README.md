@@ -3,21 +3,14 @@ A curated list of resources crossing the gap between digital media (computer vis
 
 _Feel free to contribute! Send me a pull request or contact me [@Dan_Dreher_](https://twitter.com/https://twitter.com/dan_dreher_)_
 
+____
+
 ## Table of Contents
 
-* [Visual Computing](#visual-computing)
 * [Character Animation](#character-animation)
 * [Computer Graphics](#computer-graphics)
-
-## Visual Computing
-
-### Papers
-
-* **Learning to Simulate Dynamic Environments with GameGAN** (2020), Kim et al. [[link]](https://nv-tlabs.github.io/gameGAN/) [[pdf]](https://arxiv.org/pdf/2005.12126.pdf)
-
-### Talks
-
-* **TUM AI Lecture Series - AI for 3D Content Creation** (2020), Sanja Fidler [[link]](https://www.youtube.com/watch?v=pTTxPq8uZmg&feature=youtu.be)
+* [Neural Rendering](#neural-rendering)
+* [Visual Computing](#visual-computing)
 
 ## Character Animation
 
@@ -55,7 +48,25 @@ _Feel free to contribute! Send me a pull request or contact me [@Dan_Dreher_](ht
 
 * **CreativeAI: Deep Learning for Graphics** (2019), Mitra et al. [[link]](https://geometry.cs.ucl.ac.uk/creativeai/)
 
-## License
+## Neural Rendering
+
+### Papers
+
+* **Learning to Simulate Dynamic Environments with GameGAN** (2020), Kim et al. [[link]](https://nv-tlabs.github.io/gameGAN/) [[pdf]](https://arxiv.org/pdf/2005.12126.pdf)
+
+### Talks
+
+* **Neural Rendering (CVPR 2020)** (2020). [[link]](https://www.youtube.com/watch?v=LCTYRqW-ne8)
+
+## Visual Computing
+
+### Talks
+
+* **TUM AI Lecture Series - AI for 3D Content Creation** (2020), Sanja Fidler [[link]](https://www.youtube.com/watch?v=pTTxPq8uZmg&feature=youtu.be)
+
+____
+
+# License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
