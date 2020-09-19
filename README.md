@@ -63,7 +63,7 @@ ____
 
 ### Talks
 
-* **Neural Rendering (CVPR 2020)** (2020) [[link]](https://www.neuralrender.com/) [[video 1]](https://www.youtube.com/watch?v=LCTYRqW-ne8) [[video 2]](https://www.youtube.com/watch?v=JlyGNvbGKB8&feature=youtu.be)
+* **Neural Rendering (CVPR Tutorial)** (2020) [[link]](https://www.neuralrender.com/) [[video 1]](https://www.youtube.com/watch?v=LCTYRqW-ne8) [[video 2]](https://www.youtube.com/watch?v=JlyGNvbGKB8&feature=youtu.be)
 
 ## Visual Computing
 
