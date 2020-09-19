@@ -52,11 +52,13 @@ ____
 
 ### Papers
 
+* **State of the Art on Neural Rendering** (2020), Tewari et al. [[pdf]](https://arxiv.org/pdf/2004.03805)
+
 * **Learning to Simulate Dynamic Environments with GameGAN** (2020), Kim et al. [[link]](https://nv-tlabs.github.io/gameGAN/) [[pdf]](https://arxiv.org/pdf/2005.12126.pdf)
 
 ### Talks
 
-* **Neural Rendering (CVPR 2020)** (2020). [[link]](https://www.youtube.com/watch?v=LCTYRqW-ne8)
+* **Neural Rendering (CVPR 2020)** (2020) [[link]](https://www.youtube.com/watch?v=LCTYRqW-ne8)
 
 ## Visual Computing
 
