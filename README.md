@@ -56,6 +56,8 @@ ____
 
 * **Learning to Simulate Dynamic Environments with GameGAN** (2020), Kim et al. [[link]](https://nv-tlabs.github.io/gameGAN/) [[pdf]](https://arxiv.org/pdf/2005.12126.pdf)
 
+* **Semantic Image Synthesis with Spatially-Adaptive Normalization** (2019), Park et al. [[link]](https://nvlabs.github.io/SPADE/) [[pdf]](https://arxiv.org/pdf/1903.07291.pdf)
+
 ### Talks
 
 * **Neural Rendering (CVPR 2020)** (2020) [[link]](https://www.youtube.com/watch?v=LCTYRqW-ne8)
