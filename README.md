@@ -56,6 +56,8 @@ ____
 
 * **Semantic Image Synthesis with Spatially-Adaptive Normalization** (2019), Park et al. [[link]](https://nvlabs.github.io/SPADE/) [[pdf]](https://arxiv.org/pdf/1903.07291.pdf)
 
+* **VR Facial Animation via Multiview Image Translation** (2019), Wei et al. [[link]](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/) [[pdf]](https://research.fb.com/wp-content/uploads/2019/06/VR-Facial-Animation-via-Multiview-Image-Translation.pdf)
+
 * **Face2Face: Real-time Face Capture and Reenactment of RGB Videos** (2019), Thies et al. [[link]](http://www.niessnerlab.org/projects/thies2018face.html) [[pdf]](http://www.niessnerlab.org/papers/2019/8facetoface/thies2018face.pdf)
 
 * **Deep Appearance Models for Face Rendering** (2018), Lombardi et al. [[link]](
