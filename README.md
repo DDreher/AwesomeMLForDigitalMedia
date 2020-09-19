@@ -42,7 +42,7 @@ ____
 
 * **Neural Supersampling for Real-time Rendering** (2020), Xiao et al. [[link]](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/) [[pdf]](https://research.fb.com/wp-content/uploads/2020/06/Neural-Supersampling-for-Real-time-Rendering.pdf)
 
-### Courses
+### Talks / Courses / Tutorials / Workshops
 
 * **CreativeAI: Deep Learning for Graphics** (2019), Mitra et al. [[link]](https://geometry.cs.ucl.ac.uk/creativeai/)
 
@@ -63,13 +63,13 @@ https://research.fb.com/publications/deep-appearance-models-for-face-rendering/)
 
 * **Deep Shading: Convolutional Neural Networks for Screen-Space Shading** (2017), Nalbach et al. [[link]](http://deep-shading-datasets.mpi-inf.mpg.de/) [[pdf]](http://deep-shading-datasets.mpi-inf.mpg.de/deep-shading.pdf)
 
-### Courses
+### Talks / Courses / Tutorials / Workshops
 
 * **Neural Rendering (CVPR Tutorial)** (2020) [[link]](https://www.neuralrender.com/) [[video 1]](https://www.youtube.com/watch?v=LCTYRqW-ne8) [[video 2]](https://www.youtube.com/watch?v=JlyGNvbGKB8&feature=youtu.be)
 
 ## Visual Computing
 
-### Talks
+### Talks / Courses / Tutorials / Workshops
 
 * **TUM AI Lecture Series - AI for 3D Content Creation** (2020), Sanja Fidler [[video]](https://www.youtube.com/watch?v=pTTxPq8uZmg&feature=youtu.be)
 
