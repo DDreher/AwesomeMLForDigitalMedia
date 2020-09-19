@@ -63,13 +63,13 @@ ____
 
 ### Talks
 
-* **Neural Rendering (CVPR 2020)** (2020) [[link]](https://www.youtube.com/watch?v=LCTYRqW-ne8)
+* **Neural Rendering (CVPR 2020)** (2020) [[link]](https://www.neuralrender.com/) [[video 1]](https://www.youtube.com/watch?v=LCTYRqW-ne8) [[video 2]](https://www.youtube.com/watch?v=JlyGNvbGKB8&feature=youtu.be)
 
 ## Visual Computing
 
 ### Talks
 
-* **TUM AI Lecture Series - AI for 3D Content Creation** (2020), Sanja Fidler [[link]](https://www.youtube.com/watch?v=pTTxPq8uZmg&feature=youtu.be)
+* **TUM AI Lecture Series - AI for 3D Content Creation** (2020), Sanja Fidler [[video]](https://www.youtube.com/watch?v=pTTxPq8uZmg&feature=youtu.be)
 
 ____
 
