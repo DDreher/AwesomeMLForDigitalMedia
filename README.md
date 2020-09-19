@@ -52,6 +52,8 @@ ____
 
 * **State of the Art on Neural Rendering** (2020), Tewari et al. [[link]](http://www.niessnerlab.org/projects/tewari2020neuralrendering.html) [[pdf]](https://arxiv.org/pdf/2004.03805.pdf)
 
+* **X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation** (2020), Bemana et al. [[link]](http://xfields.mpi-inf.mpg.de/) [[pdf]](http://xfields.mpi-inf.mpg.de/paper/X_Fields__siggasia_2020.pdf)
+
 * **Learning to Simulate Dynamic Environments with GameGAN** (2020), Kim et al. [[link]](https://nv-tlabs.github.io/gameGAN/) [[pdf]](https://arxiv.org/pdf/2005.12126.pdf)
 
 * **Semantic Image Synthesis with Spatially-Adaptive Normalization** (2019), Park et al. [[link]](https://nvlabs.github.io/SPADE/) [[pdf]](https://arxiv.org/pdf/1903.07291.pdf)
