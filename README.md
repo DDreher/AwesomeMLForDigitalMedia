@@ -42,8 +42,6 @@ ____
 
 * **Neural Supersampling for Real-time Rendering** (2020), Xiao et al. [[link]](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/) [[pdf]](https://research.fb.com/wp-content/uploads/2020/06/Neural-Supersampling-for-Real-time-Rendering.pdf)
 
-* **Deep Shading: Convolutional Neural Networks for Screen-Space Shading** (2017), Nalbach et al. [[link]](http://deep-shading-datasets.mpi-inf.mpg.de/) [[pdf]](http://deep-shading-datasets.mpi-inf.mpg.de/deep-shading.pdf)
-
 ### Courses
 
 * **CreativeAI: Deep Learning for Graphics** (2019), Mitra et al. [[link]](https://geometry.cs.ucl.ac.uk/creativeai/)
@@ -59,6 +57,11 @@ ____
 * **Semantic Image Synthesis with Spatially-Adaptive Normalization** (2019), Park et al. [[link]](https://nvlabs.github.io/SPADE/) [[pdf]](https://arxiv.org/pdf/1903.07291.pdf)
 
 * **Face2Face: Real-time Face Capture and Reenactment of RGB Videos** (2019), Thies et al. [[link]](http://www.niessnerlab.org/projects/thies2018face.html) [[pdf]](http://www.niessnerlab.org/papers/2019/8facetoface/thies2018face.pdf)
+
+* **Deep Appearance Models for Face Rendering** (2018), Lombardi et al. [[link]](
+https://research.fb.com/publications/deep-appearance-models-for-face-rendering/) [[pdf]](https://research.fb.com/wp-content/uploads/2018/08/Deep-Appearance-Models-for-Face-Rendering.pdf)
+
+* **Deep Shading: Convolutional Neural Networks for Screen-Space Shading** (2017), Nalbach et al. [[link]](http://deep-shading-datasets.mpi-inf.mpg.de/) [[pdf]](http://deep-shading-datasets.mpi-inf.mpg.de/deep-shading.pdf)
 
 ### Courses
 
