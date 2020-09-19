@@ -60,8 +60,7 @@ ____
 
 * **Face2Face: Real-time Face Capture and Reenactment of RGB Videos** (2019), Thies et al. [[link]](http://www.niessnerlab.org/projects/thies2018face.html) [[pdf]](http://www.niessnerlab.org/papers/2019/8facetoface/thies2018face.pdf)
 
-
-### Talks
+### Courses
 
 * **Neural Rendering (CVPR Tutorial)** (2020) [[link]](https://www.neuralrender.com/) [[video 1]](https://www.youtube.com/watch?v=LCTYRqW-ne8) [[video 2]](https://www.youtube.com/watch?v=JlyGNvbGKB8&feature=youtu.be)
 
