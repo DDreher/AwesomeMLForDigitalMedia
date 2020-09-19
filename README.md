@@ -52,11 +52,14 @@ ____
 
 ### Papers
 
-* **State of the Art on Neural Rendering** (2020), Tewari et al. [[pdf]](https://arxiv.org/pdf/2004.03805)
+* **State of the Art on Neural Rendering** (2020), Tewari et al. [[link]](http://www.niessnerlab.org/projects/tewari2020neuralrendering.html) [[pdf]](https://arxiv.org/pdf/2004.03805.pdf)
 
 * **Learning to Simulate Dynamic Environments with GameGAN** (2020), Kim et al. [[link]](https://nv-tlabs.github.io/gameGAN/) [[pdf]](https://arxiv.org/pdf/2005.12126.pdf)
 
 * **Semantic Image Synthesis with Spatially-Adaptive Normalization** (2019), Park et al. [[link]](https://nvlabs.github.io/SPADE/) [[pdf]](https://arxiv.org/pdf/1903.07291.pdf)
+
+* **Face2Face: Real-time Face Capture and Reenactment of RGB Videos** (2019), Thies et al. [[link]](http://www.niessnerlab.org/projects/thies2018face.html) [[pdf]](http://www.niessnerlab.org/papers/2019/8facetoface/thies2018face.pdf)
+
 
 ### Talks
 
