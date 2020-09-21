@@ -18,15 +18,15 @@ ____
 
 * **Learned Motion Matching** (2020), Holden et al. [[link]](http://theorangeduck.com/page/learned-motion-matching) [[pdf]](http://theorangeduck.com/media/uploads/other_stuff/Learned_Motion_Matching.pdf)
 
-* **Local Motion Phases for Learning Multi-Contact Character Movements** (2020), Starke et al. [[pdf]](https://github.com/sebastianstarke/AI4Animation/raw/master/Media/SIGGRAPH_2020/Paper.pdf)
+* **Local Motion Phases for Learning Multi-Contact Character Movements** (2020), Starke et al. [[link]](https://github.com/sebastianstarke/AI4Animation) [[pdf]](https://github.com/sebastianstarke/AI4Animation/raw/master/Media/SIGGRAPH_2020/Paper.pdf)
 
-* **Neural state machine for character-scene interactions** (2019), Starke et al. [[pdf]](https://github.com/sebastianstarke/AI4Animation/raw/master/Media/SIGGRAPH_Asia_2019/Paper.pdf)
+* **Neural state machine for character-scene interactions** (2019), Starke et al. [[link]](https://github.com/sebastianstarke/AI4Animation) [[pdf]](https://github.com/sebastianstarke/AI4Animation/raw/master/Media/SIGGRAPH_Asia_2019/Paper.pdf)
 
 * **DReCon: Data-Driven Responsive Control of Physics-Based Characters** (2019), Bergamin et al. [[link]](https://montreal.ubisoft.com/en/drecon-data-driven-responsive-control-of-physics-based-characters/) [[pdf]](https://static-wordpress.akamaized.net/montreal.ubisoft.com/wp-content/uploads/2019/11/13214229/DReCon.pdf)
 
-* **Mode-adaptive neural networks for quadruped motion control** (2018), Zhang et al. [[pdf]](https://github.com/sebastianstarke/AI4Animation/raw/master/Media/SIGGRAPH_2018/Paper.pdf)
+* **Mode-adaptive neural networks for quadruped motion control** (2018), Zhang et al. [[link]](https://github.com/sebastianstarke/AI4Animation) [[pdf]](https://github.com/sebastianstarke/AI4Animation/raw/master/Media/SIGGRAPH_2018/Paper.pdf)
 
-* **Phase-Functioned Neural Networks for Character Control** (2017), Holden et al. [[pdf]](http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf)
+* **Phase-Functioned Neural Networks for Character Control** (2017), Holden et al. [[link]](http://theorangeduck.com/page/phase-functioned-neural-networks-character-control) [[pdf]](http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf)
 
 ### Datasets
 
