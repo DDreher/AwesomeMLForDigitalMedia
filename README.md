@@ -42,6 +42,8 @@ ____
 
 * **Neural Supersampling for Real-time Rendering** (2020), Xiao et al. [[link]](https://research.fb.com/blog/2020/07/introducing-neural-supersampling-for-real-time-rendering/) [[pdf]](https://research.fb.com/wp-content/uploads/2020/06/Neural-Supersampling-for-Real-time-Rendering.pdf)
 
+* **Using Deep Convolutional Neural Networks to Detect Rendered Glitches in Video Games** (2020), Ling et al. [[link]](https://www.ea.com/seed/news/using-deep-convolutional-neural-networks-detect-glitches?Campaign_Source=ea+insiders&es_id=b22058bee4) [[pdf]](https://media.contentapi.ea.com/content/dam/ea/seed/presentations/seed-using-deep-convolutional-neural-networks-detect-glitches-paper.pdf)
+
 ### Talks / Courses / Tutorials / Workshops
 
 * **CreativeAI: Deep Learning for Graphics** (2019), Mitra et al. [[link]](https://geometry.cs.ucl.ac.uk/creativeai/)
