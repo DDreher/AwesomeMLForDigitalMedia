@@ -16,6 +16,8 @@ ____
 
 ### Papers
 
+* **RigNet: Neural Rigging for Articulated Characters** (2020), Xu et al. [[link]](https://zhan-xu.github.io/rig-net/) [[pdf]](https://people.cs.umass.edu/~zhanxu/papers/RigNet.pdf)
+
 * **Learned Motion Matching** (2020), Holden et al. [[link]](http://theorangeduck.com/page/learned-motion-matching) [[pdf]](http://theorangeduck.com/media/uploads/other_stuff/Learned_Motion_Matching.pdf)
 
 * **Local Motion Phases for Learning Multi-Contact Character Movements** (2020), Starke et al. [[link]](https://github.com/sebastianstarke/AI4Animation) [[pdf]](https://github.com/sebastianstarke/AI4Animation/raw/master/Media/SIGGRAPH_2020/Paper.pdf)
