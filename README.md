@@ -9,6 +9,7 @@ ____
 
 * [Character Animation](#character-animation)
 * [Computer Graphics](#computer-graphics)
+* [Computer Vision](#computer-vision)
 * [Neural Rendering](#neural-rendering)
 * [Visual Computing](#visual-computing)
 
@@ -51,6 +52,12 @@ ____
 ### Talks / Courses / Tutorials / Workshops
 
 * **CreativeAI: Deep Learning for Graphics** (2019), Mitra et al. [[link]](https://geometry.cs.ucl.ac.uk/creativeai/)
+
+## Computer Vision
+
+### Talks / Courses / Tutorials / Workshops
+
+* **3DGV: Seminar on 3D Geometry and Vision** (2020) [[link]](https://3dgv.github.io/)
 
 ## Neural Rendering
 
