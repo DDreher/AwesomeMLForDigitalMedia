@@ -1,4 +1,5 @@
-# Awesome Machine Learning for Digital Media
+![banner](https://github.com/DDreher/awesome-ml-for-digital-media/blob/master/assets/banner.png)
+
 A curated list of resources crossing the gap between machine learning and digital media (computer graphics, computer vision, computational imaging, animation, vfx, game development,...).
 
 This research field is rather broad and resources tend to intersect multiple fields at the same time.
