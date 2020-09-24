@@ -1,13 +1,17 @@
 # Awesome Machine Learning for Digital Media
-A curated list of resources crossing the gap between digital media (computer vision, computer graphics, animation, vfx,...) and machine learning.
+A curated list of resources crossing the gap between machine learning and digital media (computer graphics, computer vision, computational imaging, animation, vfx, game development,...).
 
-_Feel free to contribute! Send me a pull request or contact me [@Dan_Dreher_](https://twitter.com/dan_dreher_)_
+This research field is rather broad and resources tend to intersect multiple fields at the same time.
+I try to sort them into the category that I believe is most fitting.
+
+_Feel free to contribute! Send a pull request or contact me [@Dan_Dreher_](https://twitter.com/dan_dreher_)_
 
 ____
 
 ## Table of Contents
 
 * [Character Animation](#character-animation)
+* [Computational Imaging](#computer-graphics)
 * [Computer Graphics](#computer-graphics)
 * [Computer Vision](#computer-vision)
 * [Neural Rendering](#neural-rendering)
@@ -38,6 +42,12 @@ ____
 ### Projects
 
 * **AI4Animation: Deep Learning, Character Animation, Control** [[link]](https://github.com/sebastianstarke/AI4Animation)
+
+## Computational Imaging
+
+### Papers
+
+* **Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network** (2016), Ledig et al. [[link]](https://arxiv.org/abs/1609.04802) [[pdf]](https://arxiv.org/pdf/1609.04802)
 
 ## Computer Graphics
 
