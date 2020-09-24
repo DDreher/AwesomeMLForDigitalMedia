@@ -4,8 +4,8 @@ A curated list of resources crossing the gap between machine learning and digita
 This research field is rather broad and resources tend to intersect multiple fields at the same time.
 I try to sort them into the category that I believe is most fitting.
 
-_Feel free to contribute! Send a pull request or contact me [@Dan_Dreher_](https://twitter.com/dan_dreher_)_
-
+_Feel free to contribute! Send a pull request or contact me [@Dan_Dreher_](https://twitter.com/dan_dreher_)._
+_Join the community on [Discord]!(https://discord.gg/8t9K2zQ)_
 ____
 
 ## Table of Contents
