@@ -7,7 +7,8 @@ I try to sort them into the category that I believe is most fitting.
 
 _Feel free to contribute! Send a pull request or contact me [@Dan_Dreher_](https://twitter.com/dan_dreher_)_
 
-_Looking for like-minded researchers, want to discuss an interesting paper you found or want to propose a contribution? Join the community on [Discord](https://discord.gg/8t9K2zQ)!_
+_Looking for like-minded researchers, want to discuss an interesting paper you found or want to propose a contribution?    
+Join the community on [Discord](https://discord.gg/8t9K2zQ)!_
 ____
 
 ## Table of Contents
