@@ -80,7 +80,7 @@ ____
 
 ### Datasets
 
-* **KITTI-360: A large-scale dataset with 3D&2D annotations - ** (2020), Xie et al. [[link]](http://www.cvlibs.net/datasets/kitti-360/)
+* **KITTI-360: A large-scale dataset with 3D&2D annotations** (2020), Xie et al. [[link]](http://www.cvlibs.net/datasets/kitti-360/)
 
 ## Neural Rendering
 
