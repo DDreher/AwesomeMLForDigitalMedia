@@ -78,6 +78,10 @@ ____
 
 * **3DGV: Seminar on 3D Geometry and Vision** (2020) [[link]](https://3dgv.github.io/)
 
+### Datasets
+
+* **KITTI-360: A large-scale dataset with 3D&2D annotations - ** (2020), Xie et al. [[link]](http://www.cvlibs.net/datasets/kitti-360/)
+
 ## Neural Rendering
 
 ### Papers
