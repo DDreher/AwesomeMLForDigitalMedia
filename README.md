@@ -70,6 +70,10 @@ ____
 
 ## Computer Vision
 
+### Papers
+
+* **SMALR - Capturing Animal Shape and Texture from Images** (2018), Zuffi et al. [[link]](http://smalr.is.tue.mpg.de/)
+
 ### Talks / Courses / Tutorials / Workshops
 
 * **3DGV: Seminar on 3D Geometry and Vision** (2020) [[link]](https://3dgv.github.io/)
