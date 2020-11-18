@@ -109,6 +109,10 @@ https://research.fb.com/publications/deep-appearance-models-for-face-rendering/)
 
 ## Visual Computing
 
+### Papers
+
+* **Stylized Neural Painting** (2020), Zou et al. [[link]](https://jiupinjia.github.io/neuralpainter/) [[pdf]](https://arxiv.org/abs/2011.08114) [[code]](https://github.com/jiupinjia/stylized-neural-painting) [[colab]](https://colab.research.google.com/drive/1XwZ4VI12CX2v9561-WD5EJwoSTJPFBbr?usp=sharing) [[video]](https://www.youtube.com/watch?v=oerb-nwrXhk&feature=emb_title)
+
 ### Talks / Courses / Tutorials / Workshops
 
 * **TUM AI Lecture Series - AI for 3D Content Creation** (2020), Sanja Fidler [[video]](https://www.youtube.com/watch?v=pTTxPq8uZmg&feature=youtu.be)
