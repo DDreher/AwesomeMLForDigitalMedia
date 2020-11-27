@@ -60,11 +60,15 @@ ____
 
 * **Using Deep Convolutional Neural Networks to Detect Rendered Glitches in Video Games** (2020), Ling et al. [[link]](https://www.ea.com/seed/news/using-deep-convolutional-neural-networks-detect-glitches?Campaign_Source=ea+insiders&es_id=b22058bee4) [[pdf]](https://media.contentapi.ea.com/content/dam/ea/seed/presentations/seed-using-deep-convolutional-neural-networks-detect-glitches-paper.pdf)
 
-* **Neural Network Ambient Occlusion** (2016), Holden et al. [[link]](http://theorangeduck.com/page/neural-network-ambient-occlusion) [[pdf]](http://theorangeduck.com/media/uploads/other_stuff/nnao.pdf)
+* **CreativeAI: Deep Learning for Graphics** (2019), Mitra et al. [[link]](https://geometry.cs.ucl.ac.uk/creativeai/)
 
 ### Talks / Courses / Tutorials / Workshops
 
 * **CreativeAI: Deep Learning for Graphics** (2019), Mitra et al. [[link]](https://geometry.cs.ucl.ac.uk/creativeai/)
+
+### Projects
+
+* **Real-time style transfer in Unity using deep neural networks** (2020), Deliot et al. [[link]](https://blogs.unity3d.com/2020/11/25/real-time-style-transfer-in-unity-using-deep-neural-networks/)
 
 ## Computer Vision
 
