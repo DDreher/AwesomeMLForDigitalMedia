@@ -56,6 +56,8 @@ ____
 
 * **Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network** (2016), Ledig et al. [[link]](https://arxiv.org/abs/1609.04802) [[pdf]](https://arxiv.org/pdf/1609.04802)
 
+* **Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image** (2020), Liu et al. [[link]](https://infinite-nature.github.io) [[pdf]](https://arxiv.org/pdf/2012.09855) [[code]](https://github.com/google-research/google-research/blob/master/infinite_nature) [[colab]](https://colab.research.google.com/github/google-research/google-research/blob/master/infinite_nature/infinite_nature_demo.ipynb) [[video]](https://youtu.be/oXUf6anNAtc)
+
 ## Computer Graphics
 
 ### Papers
