@@ -1,9 +1,10 @@
 ![banner](https://github.com/DDreher/awesome-ml-for-digital-media/blob/master/assets/banner.png)
 
 A curated list of resources closing the gap between machine learning and digital media (computer graphics, computer vision, computational imaging, animation, vfx, game development,...).
+No in-depth explanations, just an overview of the landscape and possible starting points for further research.    
 
 This research field is rather broad and resources tend to intersect multiple fields at the same time.
-I try to sort them into the category that I believe is most fitting.
+I try to sort them into the category that I believe is most fitting.    
 
 _Feel free to contribute! Send a pull request or contact me [@Dan_Dreher_](https://twitter.com/dan_dreher_)_
 
@@ -11,12 +12,17 @@ ____
 
 ## Table of Contents
 
+* [Audio](#audio)
 * [Character Animation](#character-animation)
 * [Computational Imaging](#computer-graphics)
 * [Computer Graphics](#computer-graphics)
 * [Computer Vision](#computer-vision)
 * [Neural Rendering](#neural-rendering)
 * [Visual Computing](#visual-computing)
+
+## Audio
+
+* **Real-Time Guitar Amplifier Emulation with Deep Learning** (2020), Wright et al. [[link]](https://www.mdpi.com/2076-3417/10/3/766) [[pdf]](https://www.mdpi.com/2076-3417/10/3/766/pdf) [[demo]](http://research.spa.aalto.fi/publications/papers/applsci-deep/)
 
 ## Character Animation
 
@@ -60,8 +66,6 @@ ____
 
 * **Using Deep Convolutional Neural Networks to Detect Rendered Glitches in Video Games** (2020), Ling et al. [[link]](https://www.ea.com/seed/news/using-deep-convolutional-neural-networks-detect-glitches?Campaign_Source=ea+insiders&es_id=b22058bee4) [[pdf]](https://media.contentapi.ea.com/content/dam/ea/seed/presentations/seed-using-deep-convolutional-neural-networks-detect-glitches-paper.pdf)
 
-* **CreativeAI: Deep Learning for Graphics** (2019), Mitra et al. [[link]](https://geometry.cs.ucl.ac.uk/creativeai/)
-
 ### Talks / Courses / Tutorials / Workshops
 
 * **CreativeAI: Deep Learning for Graphics** (2019), Mitra et al. [[link]](https://geometry.cs.ucl.ac.uk/creativeai/)
@@ -75,6 +79,13 @@ ____
 ### Papers
 
 * **SMALR - Capturing Animal Shape and Texture from Images** (2018), Zuffi et al. [[link]](http://smalr.is.tue.mpg.de/)
+
+* **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis** (2020), Mildenhall et al. [[link]](https://www.matthewtancik.com/nerf) [[pdf]](https://arxiv.org/pdf/2003.08934)
+ 
+* **D-NeRF: Neural Radiance Fields for Dynamic Scenes** (2020), Pumarola et al. [[link]](https://www.albertpumarola.com/research/D-NeRF/) [[pdf]](https://arxiv.org/pdf/2011.13961)
+ 
+* **Deformable Neural Radiance Fields** (2020), Park et al. [[link]](https://nerfies.github.io/) [[pdf]](https://arxiv.org/pdf/2011.12948.pdf)
+ 
 
 ### Talks / Courses / Tutorials / Workshops
 
