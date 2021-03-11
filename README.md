@@ -88,7 +88,8 @@ ____
  
 * **Deformable Neural Radiance Fields** (2020), Park et al. [[link]](https://nerfies.github.io/) [[pdf]](https://arxiv.org/pdf/2011.12948.pdf)
  
-
+* **NeX: Real-time View Synthesis with Neural Basis Expansion** (2021), Wizadwongsa et al. [[link]](https://nex-mpi.github.io/) [[pdf]](https://arxiv.org/pdf/2103.05606.pdf)
+ 
 ### Talks / Courses / Tutorials / Workshops
 
 * **3DGV: Seminar on 3D Geometry and Vision** (2020) [[link]](https://3dgv.github.io/)
