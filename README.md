@@ -102,6 +102,8 @@ ____
 
 ### Papers
 
+* **GANcraft - Unsupervised 3D Neural Rendering of Minecraft Worlds** (2021), Hao et al. [[link]](https://nvlabs.github.io/GANcraft/) [[pdf]](https://arxiv.org/pdf/2104.07659.pdf) [[video]](https://www.youtube.com/watch?v=1Hky092CGFQ&feature=emb_title)
+
 * **State of the Art on Neural Rendering** (2020), Tewari et al. [[link]](http://www.niessnerlab.org/projects/tewari2020neuralrendering.html) [[pdf]](https://arxiv.org/pdf/2004.03805.pdf)
 
 * **X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation** (2020), Bemana et al. [[link]](http://xfields.mpi-inf.mpg.de/) [[pdf]](http://xfields.mpi-inf.mpg.de/paper/X_Fields__siggasia_2020.pdf)
