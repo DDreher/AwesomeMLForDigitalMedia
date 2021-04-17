@@ -96,6 +96,8 @@ ____
 
 ### Datasets
 
+* **Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding** (2020), Roberts et al. [[link]](https://github.com/apple/ml-hypersim/)
+
 * **KITTI-360: A large-scale dataset with 3D&2D annotations** (2020), Xie et al. [[link]](http://www.cvlibs.net/datasets/kitti-360/)
 
 ## Neural Rendering
