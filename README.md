@@ -104,7 +104,7 @@ ____
 
 ### Papers
 
-* **Deep Relightable Appearance Models for Animatable Faces** (2021), Bi et al. [[link]](https://sai-bi.github.io/project/sig21_avatar/index.html) [[video]](https://www.youtube.com/watch?v=5YigyNvt4GE)
+* **Deep Relightable Appearance Models for Animatable Faces** (2021), Bi et al. [[link]](https://sai-bi.github.io/project/sig21_avatar/index.html) [[pdf]](https://drive.google.com/file/d/11cj0mdPlpO6_c1rfTeGp7I7j5mu7vtYf/view) [[video]](https://www.youtube.com/watch?v=5YigyNvt4GE)
 
 * **GANcraft - Unsupervised 3D Neural Rendering of Minecraft Worlds** (2021), Hao et al. [[link]](https://nvlabs.github.io/GANcraft/) [[pdf]](https://arxiv.org/pdf/2104.07659.pdf) [[video]](https://www.youtube.com/watch?v=1Hky092CGFQ&feature=emb_title)
 
