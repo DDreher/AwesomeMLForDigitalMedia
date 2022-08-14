@@ -28,6 +28,9 @@ ____
 
 ### Papers
 
+* **DeepPhase: Periodic Autoencoders for Learning Motion Phase Manifolds** (2022), Starke et al.
+[[link]](https://github.com/sebastianstarke/AI4Animation) [[pdf]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2022/Paper.pdf) [[video]](https://www.youtube.com/watch?v=YhH4PYEkVnY)
+
 * **RigNet: Neural Rigging for Articulated Characters** (2020), Xu et al.
 [[link]](https://zhan-xu.github.io/rig-net/) [[pdf]](https://people.cs.umass.edu/~zhanxu/papers/RigNet.pdf)
 
